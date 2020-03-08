@@ -6,7 +6,7 @@ Hint: You may need to revisit **lecture-19-unittests-review** to figure out how 
 
 ## Testing Flask
 
-Run the test code in `tests_flask.py`. Fix the error in test file so that the test will pass will run
+Run the test code in `tests_flask.py`. Fix the error in test file so that the test will pass when ran.
 
 ## Testing Socket.io
 
