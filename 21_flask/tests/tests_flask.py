@@ -7,8 +7,8 @@ class ServerIntegrationTestCase(
         return app.app
 
     def test_server_sends_hello(self):
-        r = requests.get(self.get_server_url())
-        self.assertEquals(r.text, 'Hello, world!')
+        response = requests.get(self.get_server_url())
+        self.assertEquals(response.text, "Something goes here instead!")
 
 if __name__ == '__main__':
     unittest.main()
