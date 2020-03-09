@@ -1,6 +1,6 @@
-# lecture-21-integrated-tests
+# lecture-21-integration-tests
 
-Working with integrated tests!
+Working with integration tests!
 
 Hint: You may need to revisit **lecture-19-unittests-review** to figure out how to run the tests.
 
